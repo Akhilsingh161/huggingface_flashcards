@@ -1,6 +1,9 @@
 import os
 import time
+from dotenv import load_dotenv
 from huggingface_hub import InferenceClient
+
+load_dotenv()
 
 # Connect to Hugging Face
 client = InferenceClient(
