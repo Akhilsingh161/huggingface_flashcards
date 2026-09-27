@@ -17,6 +17,6 @@ A Python-based flashcard generator using Hugging Face InferenceClient.
 
 ## Topic Tested
 
-Computer Networks
-artificial Inteligence
+Computer Networks,
+artificial Inteligence,
 machine learning
